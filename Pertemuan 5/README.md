@@ -21,3 +21,4 @@ Saya membuat project Flutter menggunakan perintah flutter create dan berhasil me
 
 Praktikum 2:GitHub
 
+<img width="1873" height="1105" alt="Screenshot 2026-04-07 143245" src="https://github.com/user-attachments/assets/fc60d1c0-19eb-49b4-adfe-ab12ceabcd22" />
