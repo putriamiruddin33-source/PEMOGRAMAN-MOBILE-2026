@@ -4,6 +4,8 @@ Nama : Putri Amiruddin
 
 Nim : H0724501
 
+------
+
 Membuat Project Flutter
 
 Hasil
@@ -20,6 +22,8 @@ Penjelasan
 
 Saya membuat project Flutter menggunakan perintah flutter create dan berhasil menjalankan aplikasi.
 
+-------
+
 Praktikum 2:GitHub
 
 langkah 1
@@ -33,6 +37,8 @@ langka 2
 Penjelasan
 
 Saya membuat repository GitHub dan berhasil mengupload project menggunakan git.
+
+-------
 
 Praktikum 3: Menjalankan di Device
 
@@ -50,9 +56,11 @@ Penjelasan
 
 Saya menghubungkan HP dengan USB Debugging dan menjalankan aplikasi menggunakan flutter run.
 
-🔹 Praktikum 4: statles dan statefull
+-------
 
-📸 Hasil
+Praktikum 4: statles dan statefull
+
+Hasil
 
 langkah 1
 
@@ -66,7 +74,9 @@ langkah 3
 
 ![WhatsApp Image 2026-04-08 at 16 39 34 (4)](https://github.com/user-attachments/assets/6d3f4ed5-7c6b-4fdf-a895-8a726fc5970a)
 
-tugas chalenge
+-------
+
+Tugas chalenge
 
 Pengurangan (-)
 
@@ -80,9 +90,11 @@ Pengnambahan (+)
 
 Saya mempelajari perbedaan Stateless dan Stateful widget.
 
-🔹 Praktikum 5: Widget Dasar
+-------
 
-📸 Hasil
+ Praktikum 5: Widget Dasar
+
+Hasil
 
 langkah 1
 
