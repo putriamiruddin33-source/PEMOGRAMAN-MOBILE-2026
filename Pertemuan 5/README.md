@@ -46,3 +46,51 @@ langkah 2
 
 ![WhatsApp Image 2026-04-08 at 16 39 34 (1)](https://github.com/user-attachments/assets/cc5c7d44-1ea3-4437-93ef-328f3fdcf51a)
 
+Penjelasan
+
+Saya menghubungkan HP dengan USB Debugging dan menjalankan aplikasi menggunakan flutter run.
+
+🔹 Praktikum 4: statles dan statefull
+
+📸 Hasil
+
+langkah 1
+
+![WhatsApp Image 2026-04-08 at 16 39 34 (2)](https://github.com/user-attachments/assets/1d6a8b0e-977d-4b9e-8f40-861e6e397795)
+
+langkah 2
+
+![WhatsApp Image 2026-04-08 at 16 39 34 (3)](https://github.com/user-attachments/assets/eb470473-65bb-4015-9fcc-d4d5e6e1c1dc)
+
+langkah 3
+
+![WhatsApp Image 2026-04-08 at 16 39 34 (4)](https://github.com/user-attachments/assets/6d3f4ed5-7c6b-4fdf-a895-8a726fc5970a)
+
+tugas chalenge
+
+Pengurangan (-)
+
+![WhatsApp Image 2026-04-08 at 16 39 34 (6)](https://github.com/user-attachments/assets/7136f7ae-7475-49db-8f3a-2384955038c4)
+
+Pengnambahan (+)
+
+![WhatsApp Image 2026-04-08 at 16 39 34 (5)](https://github.com/user-attachments/assets/b2ca53ea-2a8a-415c-9354-d5a936a24736)
+
+ Penjelasan
+
+Saya mempelajari perbedaan Stateless dan Stateful widget.
+
+🔹 Praktikum 5: Widget Dasar
+
+📸 Hasil
+
+langkah 1
+
+![WhatsApp Image 2026-04-08 at 16 39 34 (7)](https://github.com/user-attachments/assets/85880f18-8e35-4c80-801a-e353b368ef3a)
+
+Penjelasan
+
+Saya menggunakan widget Text, Icon, dan Column untuk membuat tampilan sederhana.
+
+Kesimpulan
+Saya memahami cara membuat aplikasi Flutter, menjalankannya di emulator dan device, serta menggunakan widget dasar.
