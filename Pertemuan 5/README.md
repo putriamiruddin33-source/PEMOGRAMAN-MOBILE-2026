@@ -33,3 +33,16 @@ langka 2
 Penjelasan
 
 Saya membuat repository GitHub dan berhasil mengupload project menggunakan git.
+
+Praktikum 3: Menjalankan di Device
+
+📸 Hasil di HP
+
+langkah 1
+
+![WhatsApp Image 2026-04-08 at 16 39 34](https://github.com/user-attachments/assets/f7489a6c-b5ed-4301-b6f5-590485a0db09)
+
+langkah 2
+
+![WhatsApp Image 2026-04-08 at 16 39 34 (1)](https://github.com/user-attachments/assets/cc5c7d44-1ea3-4437-93ef-328f3fdcf51a)
+
