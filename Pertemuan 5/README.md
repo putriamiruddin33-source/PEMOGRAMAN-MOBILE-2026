@@ -28,3 +28,7 @@ langkah 1
 langka 2 
 
 <img width="1873" height="1105" alt="Screenshot 2026-04-07 143245" src="https://github.com/user-attachments/assets/fc60d1c0-19eb-49b4-adfe-ab12ceabcd22" />
+
+Penjelasan
+
+Saya membuat repository GitHub dan berhasil mengupload project menggunakan git.
