@@ -78,6 +78,10 @@ langkah 3
 
 Tugas chalenge
 
+Reset
+
+![WhatsApp Image 2026-04-08 at 16 39 34 (8)](https://github.com/user-attachments/assets/f76e4c02-2b90-4875-a6e1-e48f27d37bb7)
+
 Pengurangan (-)
 
 ![WhatsApp Image 2026-04-08 at 16 39 34 (6)](https://github.com/user-attachments/assets/7136f7ae-7475-49db-8f3a-2384955038c4)
