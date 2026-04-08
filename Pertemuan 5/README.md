@@ -92,6 +92,8 @@ Penjelasan
 
 Saya menggunakan widget Text, Icon, dan Column untuk membuat tampilan sederhana.
 
+-----
+
 Kesimpulan
 
 Saya memahami cara membuat aplikasi Flutter, menjalankannya di emulator dan device, serta menggunakan widget dasar.
