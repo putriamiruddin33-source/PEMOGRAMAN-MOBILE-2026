@@ -78,6 +78,10 @@ Mengimplementasikan layout UI berdasarkan studi kasus nyata seperti tampilan apl
 
 ### 6. Praktikum 6: Implementasi Text Section (Styling & Kerapian UI)
 
+<img width="1899" height="1097" alt="Screenshot 2026-04-15 151413" src="https://github.com/user-attachments/assets/d904ec20-2df9-4bc2-87e2-a7d8785b7f76" />
+
+
+<img width="1906" height="958" alt="Screenshot 2026-04-15 151440" src="https://github.com/user-attachments/assets/73a83ebb-c03a-45b3-82a0-58493d3dac97" />
 
 
 **Penjelasan:**  
