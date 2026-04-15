@@ -68,12 +68,13 @@ Membuat halaman login sederhana dengan input field dan tombol menggunakan Flutte
 
 ### 5. Praktikum 5: Membangun Layout UI Sederhana (Real Case)
 
-<img width="1903" height="1185" alt="Screenshot 2026-04-13 160725" src="https://github.com/user-attachments/assets/ff145524-632c-42b6-9fc5-f20084852ce8" />
+<img width="1915" height="1107" alt="Screenshot 2026-04-15 154425" src="https://github.com/user-attachments/assets/8e808212-c04b-42ad-8a3c-ef83fe8f6ad1" />
+
 
 
 
 **Penjelasan:**  
-Mengimplementasikan layout UI berdasarkan studi kasus nyata seperti tampilan aplikasi POTO KELUARGA.
+Mengimplementasikan layout UI berdasarkan studi kasus nyata seperti tampilan aplikasi Pemandangan alam.
 
 ---
 
