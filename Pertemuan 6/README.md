@@ -38,7 +38,8 @@ Dari praktikum ini, saya sudah belajar:
 
 ### 4. Praktikum 3: Widget Bertingkat (Nested Widget)
 
-<img width="1872" height="1173" alt="Screenshot 2026-04-13 142706" src="https://github.com/user-attachments/assets/e390ed9b-dbdc-4367-96fd-d7247c32b30f" />
+<img width="1896" height="1180" alt="Screenshot 2026-04-13 154633" src="https://github.com/user-attachments/assets/daba35ac-5e52-4860-bce7-0a639afb8a26" />
+
 
 *Penjelasan:*  
 Materi ini menjelaskan penggunaan widget di dalam widget (nested) untuk membangun struktur UI yang lebih terorganisir.
