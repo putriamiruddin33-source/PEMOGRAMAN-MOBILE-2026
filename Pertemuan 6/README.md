@@ -93,6 +93,7 @@ Fokus pada pengaturan teks seperti ukuran font, warna, dan alignment agar tampil
 
 ### 7. Praktikum 7: Image Section & Layout Lebih Rapi
 
+<img width="1919" height="1102" alt="Screenshot 2026-04-15 160212" src="https://github.com/user-attachments/assets/d4f66b14-c77b-4c92-9206-658ddf4e3853" />
 
 
 
