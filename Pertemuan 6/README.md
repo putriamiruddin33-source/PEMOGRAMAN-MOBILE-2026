@@ -98,12 +98,11 @@ Fokus pada pengaturan teks seperti ukuran font, warna, dan alignment agar tampil
 
 
 **Penjelasan:**  
-Gambar tersebut menunjukkan hasil tampilan sebuah aplikasi (kemungkinan aplikasi Flutter atau berbasis UI lainnya) yang sudah berhasil menampilkan konten berupa gambar dan teks secara terstruktur. Pada bagian atas terlihat deskripsi panjang tentang suasana pedesaan, yang ditampilkan dalam sebuah area dengan latar berwarna (seperti hijau), sehingga membuat teks lebih menonjol dan mudah dibaca.
-Di bawahnya terdapat bagian “Penjelasan”, yang berfungsi sebagai keterangan tambahan terhadap isi sebelumnya. Penempatan judul dan isi penjelasan sudah cukup rapi dan terpisah dengan jelas, sehingga pengguna dapat memahami informasi secara bertahap.
+Gambar tersebut menunjukkan hasil tampilan sebuah aplikasi (kemungkinan aplikasi Flutter atau berbasis UI lainnya) yang sudah berhasil menampilkan konten berupa gambar dan teks secara terstruktur. Pada bagian atas terlihat deskripsi panjang tentang suasana pedesaan, yang ditampilkan dalam sebuah area dengan latar berwarna (seperti hijau), sehingga membuat teks lebih menonjol dan mudah dibaca. Di bawahnya terdapat bagian “Penjelasan”, yang berfungsi sebagai keterangan tambahan terhadap isi sebelumnya. Penempatan judul dan isi penjelasan sudah cukup rapi dan terpisah dengan jelas, sehingga pengguna dapat memahami informasi secara bertahap.
 Secara keseluruhan, hasil ini menunjukkan bahwa:
-Gambar dan teks berhasil dimasukkan ke dalam aplikasi dengan baik.
-Tata letak (layout) sudah diatur agar terlihat lebih menarik, dengan pemisahan antara konten utama dan penjelasan.
-Penggunaan warna latar membantu meningkatkan fokus dan keterbacaan teks.
+*Gambar dan teks berhasil dimasukkan ke dalam aplikasi dengan baik*.
+*Tata letak (layout) sudah diatur agar terlihat lebih menarik, dengan pemisahan antara konten utama dan penjelasan*.
+*Penggunaan warna latar membantu meningkatkan fokus dan keterbacaan teks*.
 Tampilan terlihat cukup responsif dan terorganisir, meskipun masih bisa dikembangkan lagi agar lebih modern, misalnya dengan menambahkan padding, margin, atau elemen desain lainnya.
 Bagian bawah gambar juga memperlihatkan perangkat yang digunakan, yaitu sebuah laptop, yang menandakan aplikasi tersebut sedang dijalankan atau diuji secara langsung.
 
