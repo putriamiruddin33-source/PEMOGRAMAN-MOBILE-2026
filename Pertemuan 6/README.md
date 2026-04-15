@@ -71,6 +71,7 @@ Membuat halaman login sederhana dengan input field dan tombol menggunakan Flutte
 
 ### 5. Praktikum 5: Membangun Layout UI Sederhana (Real Case)
 
+<img width="1903" height="1185" alt="Screenshot 2026-04-13 160725" src="https://github.com/user-attachments/assets/f29da81a-b061-4a5a-b70f-1dae160a8264" />
 
 
 **Penjelasan:**  
@@ -81,12 +82,15 @@ Mengimplementasikan layout UI berdasarkan studi kasus nyata seperti tampilan apl
 ### 6. Praktikum 6: Implementasi Text Section (Styling & Kerapian UI)
 
 
+
 **Penjelasan:**  
 Fokus pada pengaturan teks seperti ukuran font, warna, dan alignment agar tampilan lebih rapi.
 
 ---
 
 ### 7. Praktikum 7: Image Section & Layout Lebih Rapi
+
+<img width="1913" height="1191" alt="Screenshot 2026-04-13 162136" src="https://github.com/user-attachments/assets/1211d8e7-5585-464d-b7c6-28a67b92dadd" />
 
 
 **Penjelasan:**  
