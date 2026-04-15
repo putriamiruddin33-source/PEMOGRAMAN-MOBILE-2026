@@ -1,9 +1,7 @@
 # 📘 Pemrograman Mobile 2026
 
-## 👨‍💻 Nama
-PUTRI AMIRUDDIN  <br>
-## 👨‍💻 Nim 
-H0724501
+## 👨‍💻 Nama : PUTRI AMIRUDDIN  <br>
+## 👨‍💻 Nim : H0724501
 
 ---
 
