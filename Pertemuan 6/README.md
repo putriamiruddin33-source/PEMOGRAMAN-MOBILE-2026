@@ -74,7 +74,7 @@ Membuat halaman login sederhana dengan input field dan tombol menggunakan Flutte
 
 
 **Penjelasan:**  
-Mengimplementasikan layout UI berdasarkan studi kasus nyata seperti tampilan aplikasi wisata.
+Mengimplementasikan layout UI berdasarkan studi kasus nyata seperti tampilan aplikasi POTO KELUARGA.
 
 ---
 
