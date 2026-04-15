@@ -93,28 +93,10 @@ Fokus pada pengaturan teks seperti ukuran font, warna, dan alignment agar tampil
 
 ### 7. Praktikum 7: Image Section & Layout Lebih Rapi
 
-<img width="1919" height="1102" alt="Screenshot 2026-04-15 160212" src="https://github.com/user-attachments/assets/d4f66b14-c77b-4c92-9206-658ddf4e3853" />
+<img width="1915" height="1101" alt="Screenshot 2026-04-15 164327" src="https://github.com/user-attachments/assets/eaf03868-5b4d-4b6b-b0be-ecb4c395b262" />
 
+<img width="1916" height="1113" alt="Screenshot 2026-04-15 164351" src="https://github.com/user-attachments/assets/c25945a6-2571-427d-b6a0-6cbfaa5d17b5" />
 
 
 **Penjelasan:**  
-Gambar tersebut menunjukkan hasil tampilan sebuah aplikasi (kemungkinan aplikasi Flutter atau berbasis UI lainnya) yang sudah berhasil menampilkan konten berupa gambar dan teks secara terstruktur. Pada bagian atas terlihat deskripsi panjang tentang suasana pedesaan, yang ditampilkan dalam sebuah area dengan latar berwarna (seperti hijau), sehingga membuat teks lebih menonjol dan mudah dibaca. Di bawahnya terdapat bagian “Penjelasan”, yang berfungsi sebagai keterangan tambahan terhadap isi sebelumnya. Penempatan judul dan isi penjelasan sudah cukup rapi dan terpisah dengan jelas, sehingga pengguna dapat memahami informasi secara bertahap.
-Secara keseluruhan, hasil ini menunjukkan bahwa:
 
-- Gambar dan teks berhasil dimasukkan ke dalam aplikasi dengan baik.
-
-- Tata letak (layout) sudah diatur agar terlihat lebih menarik, dengan pemisahan antara konten utama dan penjelasan.
-
-- Penggunaan warna latar membantu meningkatkan fokus dan keterbacaan teks.
-
-Tampilan terlihat cukup responsif dan terorganisir, meskipun masih bisa dikembangkan lagi agar lebih modern, misalnya dengan menambahkan padding, margin, atau elemen desain lainnya.
-Bagian bawah gambar juga memperlihatkan perangkat yang digunakan, yaitu sebuah laptop, yang menandakan aplikasi tersebut sedang dijalankan atau diuji secara langsung.
-
-
-----
-
-
-## KESIMPULAN
-
-Hasil yang ditampilkan sudah memenuhi tujuan dasar, yaitu menampilkan gambar dan teks dengan layout yang lebih menarik dan terstruktur, serta menunjukkan pemahaman awal yang baik dalam pengelolaan tampilan antarmuka aplikasi.
----
