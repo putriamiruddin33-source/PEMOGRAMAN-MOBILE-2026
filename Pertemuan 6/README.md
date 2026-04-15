@@ -29,8 +29,7 @@ Pada praktikum ini, saya telah belajar:
 
 ### 2. Praktikum 2: Membangun Layout di Flutter <br>
 
-<img width="1872" height="1182" alt="Screenshot 2026-04-13 143547" src="https://github.com/user-attachments/assets/0507a713-3af5-4c07-9387-9c82f7562944" />
-
+<img width="1894" height="1092" alt="Screenshot 2026-04-15 144458" src="https://github.com/user-attachments/assets/13402092-260e-401e-8978-4fb5ebe7baca" />
 
 
 **Penjelasan:**  
