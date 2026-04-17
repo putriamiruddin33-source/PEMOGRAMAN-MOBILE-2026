@@ -82,7 +82,7 @@ Pada praktikum ini, saya telah belajar:
 
 
 **Penjelasan:**  
-
+Pada praktikum ini, saya telah belajar:
 - menggunakan **named route**
 - membuat navigasi lebih rapi dan terstruktur
 - berpindah halaman tanpa menulis `MaterialPageRoute` berulang
@@ -92,9 +92,70 @@ Pada praktikum ini, saya telah belajar:
   
 ---
 
-### 5. Praktikum 3.5: Membangun Layout UI Sederhana (Real Case)
-![Screenshot](assets/pertemuan6.png)
+### 5. Praktikum 3.5: Membangun Layout UI Sederhana (Real Case) <br>
+
+<img width="1919" height="1101" alt="Screenshot 2026-04-17 155033" src="https://github.com/user-attachments/assets/2f0268d4-2a6a-4f5b-b0b4-dac51eccf67a" />
+
+<img width="1919" height="1113" alt="Screenshot 2026-04-17 155057" src="https://github.com/user-attachments/assets/9f9deb51-fc73-49d3-8e5c-57f8fbb70eb2" />
+
 
 **Penjelasan:**  
-Mengimplementasikan layout UI berdasarkan studi kasus nyata seperti tampilan aplikasi wisata.
+Pada praktikum ini, saya telah belajar:
+
+- menggunakan **named route**
+- mengambil input dari user
+- mengirim data antar halaman
+- memahami alur aplikasi sederhana
+
+### 6. Praktikum 4: Menampilkan Data dengan ListView <br>
+
+<img width="1919" height="1107" alt="Screenshot 2026-04-16 131135" src="https://github.com/user-attachments/assets/9d20f8b7-e4a9-4a13-b349-258d2c76e22c" />
+
+<img width="1915" height="1114" alt="Screenshot 2026-04-16 131853" src="https://github.com/user-attachments/assets/e92d1c08-b3d4-431f-9ef9-e3e4a21d5426" />
+
+**Tampilan yang saya buat**
+<img width="1919" height="1107" alt="Screenshot 2026-04-16 213952" src="https://github.com/user-attachments/assets/1e0e2cf0-af32-414a-980b-6b5888fcae67" />
+
+### 7. Praktikum 5: ListView + Navigasi (Mini App Sederhana) <br>
+
+<img width="1919" height="1115" alt="Screenshot 2026-04-16 215323" src="https://github.com/user-attachments/assets/63744142-738b-4ef4-ab68-67ba75a2d25e" />
+
+<img width="1818" height="1072" alt="Screenshot 2026-04-16 215428" src="https://github.com/user-attachments/assets/69ca2e89-ef24-4cc2-a221-f1a37419e1cb" />
+
+<img width="1814" height="1064" alt="Screenshot 2026-04-16 215442" src="https://github.com/user-attachments/assets/921b10a3-0ed2-489c-86e6-24cc9514f2d8" />
+
+**Tampilan ketika meng-klik ikon**
+
+<img width="1919" height="1092" alt="Screenshot 2026-04-16 215502" src="https://github.com/user-attachments/assets/690372a3-50fa-4e0a-85fd-534ca16a8049" />
+
+**Penjelasan:**  
+Pada praktikum ini, saya telah belajar:
+
+- menampilkan data dalam ListView
+- membuat item bisa diklik
+- berpindah halaman (navigasi)
+- mengirim data ke halaman detail
+- membuat mini aplikasi sederhana
+
+### 8. Praktikum 6: Mini Project: Aplikasi Wisata (ListView + Model + Gambar + Detail) <br>
+
+<img width="1903" height="1095" alt="Screenshot 2026-04-16 220104" src="https://github.com/user-attachments/assets/0f423035-6279-4d49-83e7-8a3b4ed6d07d" />
+
+<img width="1919" height="1109" alt="Screenshot 2026-04-16 220144" src="https://github.com/user-attachments/assets/575942f2-2fd8-4f08-bb3b-77801a8a6af1" />
+
+**Penjelasan:** 
+Pada praktikum ini, saya telah belajar:
+
+- menggunakan **model (class)**
+- menampilkan data kompleks (nama, gambar, deskripsi)
+- menggunakan **ListView**
+- navigasi ke halaman detail
+- membuat UI lebih menarik
+  
+
+
+
+
+
+
 
