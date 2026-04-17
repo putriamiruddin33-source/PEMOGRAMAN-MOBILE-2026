@@ -107,6 +107,8 @@ Pada praktikum ini, saya telah belajar:
 - mengirim data antar halaman
 - memahami alur aplikasi sederhana
 
+-----
+
 ### 6. Praktikum 4: Menampilkan Data dengan ListView <br>
 
 <img width="1919" height="1107" alt="Screenshot 2026-04-16 131135" src="https://github.com/user-attachments/assets/9d20f8b7-e4a9-4a13-b349-258d2c76e22c" />
@@ -115,6 +117,8 @@ Pada praktikum ini, saya telah belajar:
 
 **Tampilan yang saya buat**
 <img width="1919" height="1107" alt="Screenshot 2026-04-16 213952" src="https://github.com/user-attachments/assets/1e0e2cf0-af32-414a-980b-6b5888fcae67" />
+
+--------
 
 ### 7. Praktikum 5: ListView + Navigasi (Mini App Sederhana) <br>
 
@@ -137,6 +141,8 @@ Pada praktikum ini, saya telah belajar:
 - mengirim data ke halaman detail
 - membuat mini aplikasi sederhana
 
+-----
+
 ### 8. Praktikum 6: Mini Project: Aplikasi Wisata (ListView + Model + Gambar + Detail) <br>
 
 <img width="1903" height="1095" alt="Screenshot 2026-04-16 220104" src="https://github.com/user-attachments/assets/0f423035-6279-4d49-83e7-8a3b4ed6d07d" />
@@ -152,7 +158,9 @@ Pada praktikum ini, saya telah belajar:
 - navigasi ke halaman detail
 - membuat UI lebih menarik
   
-
+----
+  
+## 
 
 
 
